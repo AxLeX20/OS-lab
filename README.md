@@ -1,4 +1,3 @@
-#Nik181O labs from bykvaadm/OS#
 **Aleksey Polyakov студент группы ББСО-04-18**
 
 ## Источники лаб.
